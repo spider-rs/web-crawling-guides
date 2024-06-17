@@ -1,7 +1,5 @@
 # Getting started with Proxy Mode
 
-## Contents
-
 ## What is the proxy mode?
 
 Spider also offers a proxy front-end to the API. This can make integration with third-party tools easier. The Proxy mode only changes the way you access Spider. The Spider API will then handle requests just like any standard request.
