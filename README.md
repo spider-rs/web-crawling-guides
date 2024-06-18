@@ -14,7 +14,6 @@ This repos contains a collection of guides on how to effectively use the Spider 
 - [How to Use Proxy Mode](proxy-mode.md)
 - [LangChain + Groq + Spider = 🚀 (Integration Guide)](langchain-groq.md)
 - [CrewAI Spider Stock Research](crewai-spider-research-agent.md)
-- [Using Proxy Mode](proxy-mode.md)
 - [Extracting Contacts](extracting-contacts.md)
 - [Automated Cold Email Outreach Using Spider](auto-email-response-outreach.md)
 - [How to Archive Full Website](website-archiving.md)
