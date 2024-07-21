@@ -18,7 +18,8 @@ This repos contains a collection of guides on how to effectively use the Spider 
 - [Automated Cold Email Outreach Using Spider](auto-email-response-outreach.md)
 - [How to Archive Full Website](website-archiving.md)
 - Building A Speedy Resilient Web Scraper for RAG AI ([Part 1](building-a-speedy-resilient-web-scraper-for-rag-ai-part1-preparing.md), [Part 2](building-a-speedy-resilient-web-scraper-for-rag-ai-part2-scaling-up.md))
-  
+- [Agents from Scrach](ai-agent-from-scratch.md)
+
 ## Contribute
 
 We're happy to accept requests in the issue tracker, improvements to the content, and additional guides.
