@@ -68,7 +68,7 @@ Getting started with the API is simple and straightforward. After you get your [
 Install the Spider Python client library and autogen:
 
 ```bash
-pip install spider-client pyautogen
+pip install spider-client ag2
 ```
 
 Now we need to setup the Autogen LLM configuration.
