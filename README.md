@@ -7,7 +7,7 @@
 
 # Spider Web Crawling and Scraping Guides
 
-This repo contains a collection of guides on how to effectively use the Spider service to crawl or scrape. Contributors are welcome! 😁
+This repo contains a collection of guides on how to effectively use the Spider service to crawl or scrape. If you are starting from zero, read [Spider's web scraping guide](https://spider.cloud/web-scraping/?utm_source=github&utm_medium=readme&utm_campaign=web-crawling-guides) first. Contributors are welcome! 😁
 
 ## Collection
 
